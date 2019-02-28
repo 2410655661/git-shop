@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: 'PingFangSC-Regular', 'Tahoma', 'Microsoft Yahei', 'sans-serif';
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  font-weight: normal;
+}
+
+ul, li, ol, dl, dt, dd {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* 根据实际情况选取
+a:hover {
+  color: ;
+  background-color: ;
+}
+
+a:focus {
+  color: ;
+  background-color: ;
+} */
+
+button {
+  border: 0;
+  cursor: pointer;
+}
